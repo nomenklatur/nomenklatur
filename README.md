@@ -7,9 +7,14 @@
   </a>
 </p>
 
+<p align="center>
+  
 <a href="https://github.com/nomenklatur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nomenklatur&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/zuramai">
+<a href="https://github.com/nomenklatur">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomenklatur&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
+
+![nomenklatur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomenklatur&theme=highcontrast&hide_border=true)
+</p>
